@@ -17,16 +17,15 @@
       "password": "qwerty123I",
       "date": 1702670270919,
       "id": 3
+    },
+    {
+      "email": "fff@gmail.com",
+      "password": "qwerty123J",
+      "date": 1702755314693,
+      "id": 4
     }
   ],
   "notes": [
-    {
-      "title": "fdfdfdf",
-      "text": "fdfdfdfdf",
-      "date": 1702585369646,
-      "authorId": 1,
-      "id": 2
-    },
     {
       "title": "note 3",
       "text": "33",
@@ -35,11 +34,11 @@
       "id": 3
     },
     {
-      "title": "ree",
+      "title": "reess",
       "text": "rerer",
       "authorId": 1,
       "id": 4,
-      "date": 1702750160716
+      "date": 1702755297679
     },
     {
       "title": "fdkdkfldkf",
