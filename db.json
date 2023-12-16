@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "qwerty123I",
+      "date": 1701539946272,
+      "id": 1
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "qwerty123I",
+      "date": 1701978529168,
+      "id": 2
+    },
+    {
+      "email": "c@gmail.com",
+      "password": "qwerty123I",
+      "date": 1702670270919,
+      "id": 3
+    }
+  ],
+  "notes": [
+    {
+      "title": "fdfdfdf",
+      "text": "fdfdfdfdf",
+      "date": 1702585369646,
+      "authorId": 1,
+      "id": 2
+    },
+    {
+      "title": "note 3",
+      "text": "33",
+      "date": 1702670319297,
+      "authorId": 3,
+      "id": 3
+    },
+    {
+      "title": "ree",
+      "text": "rerer",
+      "authorId": 1,
+      "id": 4,
+      "date": 1702750160716
+    },
+    {
+      "title": "fdkdkfldkf",
+      "text": "fdf",
+      "date": 1702752025522,
+      "authorId": 2,
+      "id": 5
+    },
+    {
+      "title": "fdfdf",
+      "text": "fdfd",
+      "date": 1702752152664,
+      "authorId": 2,
+      "id": 6
+    },
+    {
+      "title": "fkdkfldfkldkfl",
+      "text": "fdkfkflkdlfkdlfkd",
+      "date": 1702752734291,
+      "authorId": 2,
+      "id": 7
+    }
+  ]
+}
